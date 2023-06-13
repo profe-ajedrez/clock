@@ -1,3 +1,4 @@
-module github.com/benbjohnson/clock
+module github.com/profe-ajedrez/clock
 
 go 1.20
+
